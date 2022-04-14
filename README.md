@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## DATA VIZ
 
-You can use the [editor on GitHub](https://github.com/smartibe/smartibe.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Stacked Bar Graphs
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Image Stacked Bar Graph](/docs/assets/img/stacked_bar.png)
+[Stacked Bar Graphs](https://datawrapper.dwcdn.net/pT5zU/2/)
+  
 
 ```markdown
 Syntax highlighted code block
