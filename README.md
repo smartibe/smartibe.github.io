@@ -1,4 +1,4 @@
-## PAC 2
+## Data Viz
 
 ### Stacked Bar Graphs
 
