@@ -1,4 +1,4 @@
-## PAC 2 - 
+## PAC 2
 
 ### Stacked Bar Graphs
 
